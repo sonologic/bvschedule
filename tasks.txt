@@ -1,5 +1,13 @@
 socialhack:
  * make it beautiful
+ * interactive schedule 
+ * maybe interface for changing shows 
 
 gmc: 
  * make it work
+
+output formats:
+ * html display
+ * display
+ * mp3/ogg stream meta data
+ * publish raw xml/json feeds 
