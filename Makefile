@@ -7,4 +7,5 @@ schedule.json:	schedule.xml json.xslt
 		xsltproc json.xslt schedule.xml > schedule.json
 
 schedule.meta:	schedule.xml meta.xslt
-		xsltproc meta.xslt schedule.xml > schedule.json
+		xsltproc meta.xslt schedule.xml > schedule.meta
+
